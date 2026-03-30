@@ -14,7 +14,7 @@ import logging
 import shutil
 import imp
 import math
-from TSTOT_torch_ import cost_matrix_batch_torch, GW_distance_uniform, IPOT_distance_torch_batch_uniform
+from GOT_torch_ import cost_matrix_batch_torch, GW_distance_uniform, IPOT_distance_torch_batch_uniform
 
 
 def same_seeds(seed):
